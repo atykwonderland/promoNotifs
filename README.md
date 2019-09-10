@@ -1,0 +1,2 @@
+# promoNotifs
+Made for MANABA
