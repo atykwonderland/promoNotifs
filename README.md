@@ -10,3 +10,6 @@ In order for the program to function, must input the share link for the spreadsh
 
 
 **To be made into a user friendly executable
+
+# Results:
+![Alt text](Results.jpg?raw=true)
