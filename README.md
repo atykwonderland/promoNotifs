@@ -9,4 +9,4 @@ In order for the program to function, must input the share link for the spreadsh
 2. json file with the members' slack ids (Format is {Name: ID}) 
 
 
-**To be made into an executable
+**To be made into a user friendly executable
